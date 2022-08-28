@@ -1,0 +1,6 @@
+.env
+localhost.crt
+localhost.key
+.idea/
+bookmarks/media/users
+bookmarks/media/images
